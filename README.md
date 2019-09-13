@@ -6,3 +6,5 @@ To download the pretrained model https://drive.google.com/drive/folders/1L3QBdMb
 Download the model and save them in new_data folder
 
 then run python facial_feature_api.py
+
+To train a model run python model_final.py
